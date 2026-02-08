@@ -1,0 +1,40 @@
+{
+    "tasks": [
+        {
+            "id": "task-1",
+            "title": "Create Paywall Screen",
+            "status": "pending",
+            "description": "Premium subscription screen with pricing options (29k/month, 99k/lifetime), feature comparison, and payment integration UI. Include emotional copy and testimonials."
+        },
+        {
+            "id": "task-2",
+            "title": "Create Full Analysis Screen",
+            "status": "pending",
+            "description": "Complete numerology analysis screen showing detailed personality breakdown, strengths/weaknesses, life purpose, and personal characteristics for premium users."
+        },
+        {
+            "id": "task-3",
+            "title": "Create Career & Money Screen",
+            "status": "pending",
+            "description": "Career guidance screen with suitable professions, business vs office work recommendations, money mindset advice, and success tips based on life path number."
+        },
+        {
+            "id": "task-4",
+            "title": "Create Love Compatibility Screen",
+            "status": "pending",
+            "description": "Love and relationship screen showing compatibility with other numbers, relationship patterns, how the user loves, and red flags to watch for."
+        },
+        {
+            "id": "task-5",
+            "title": "Create Time Forecast Screen",
+            "status": "pending",
+            "description": "Personal year/month forecast screen with lucky days, favorable periods, and guidance for current cycle. Include calendar view and daily predictions."
+        },
+        {
+            "id": "task-6",
+            "title": "Create Daily Message Screen",
+            "status": "pending",
+            "description": "Daily motivational message screen with positive affirmations, lucky number of the day, and personalized guidance. Include notification setup UI."
+        }
+    ]
+}
